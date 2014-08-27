@@ -1,0 +1,39 @@
+[submodule "websites/dominionenterprises.github.io"]
+	path = websites/dominionenterprises.github.io
+	url = git@github.com:nubs/dominionenterprises.github.io
+[submodule "websites/12bcon"]
+	path = websites/12bcon
+	url = git@github.com:nubs/12bcon
+[submodule "php/util-php"]
+	path = php/util-php
+	url = git@github.com:nubs/util-php
+[submodule "php/dws-coding-standard"]
+	path = php/dws-coding-standard
+	url = git@github.com:nubs/dws-coding-standard
+[submodule "php/tol-api-php"]
+	path = php/tol-api-php
+	url = git@github.com:nubs/tol-api-php
+[submodule "php/mongo-queue-php"]
+	path = php/mongo-queue-php
+	url = git@github.com:nubs/mongo-queue-php
+[submodule "php/filter-php"]
+	path = php/filter-php
+	url = git@github.com:nubs/filter-php
+[submodule "php/image-util-php"]
+	path = php/image-util-php
+	url = git@github.com:nubs/image-util-php
+[submodule "php/memoize-php"]
+	path = php/memoize-php
+	url = git@github.com:nubs/memoize-php
+[submodule "php/solvemedia-client-php"]
+	path = php/solvemedia-client-php
+	url = git@github.com:nubs/solvemedia-client-php
+[submodule "php/column-parser-php"]
+	path = php/column-parser-php
+	url = git@github.com:nubs/column-parser-php
+[submodule "php/netacuity-php"]
+	path = php/netacuity-php
+	url = git@github.com:nubs/netacuity-php
+[submodule "php/cronus"]
+	path = php/cronus
+	url = git@github.com:nubs/cronus
