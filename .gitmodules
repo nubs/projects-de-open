@@ -37,3 +37,12 @@
 [submodule "php/cronus"]
 	path = php/cronus
 	url = git@github.com:nubs/cronus
+[submodule "js/tol-api-nodejs"]
+	path = js/tol-api-nodejs
+	url = git@github.com:nubs/tol-api-nodejs
+[submodule "js/tol-api-js"]
+	path = js/tol-api-js
+	url = git@github.com:nubs/tol-api-js
+[submodule "js/tol-uitest"]
+	path = js/tol-uitest
+	url = git@github.com:nubs/tol-uitest
