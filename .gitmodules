@@ -46,3 +46,6 @@
 [submodule "js/tol-uitest"]
 	path = js/tol-uitest
 	url = git@github.com:nubs/tol-uitest
+[submodule "php/chef-php"]
+	path = php/chef-php
+	url = git@github.com:nubs/chef-php
